@@ -12,8 +12,8 @@ you will need to have XCode installed [(You can download it here.)](https://deve
   Then make sure the build target is set to iPhone 8 by clicking the small window in the upper-right.
 
 ### Prerequisites
-Mac OSX Sierra or High Sierra
-XCode 9
+* Mac OSX Sierra or High Sierra
+* XCode 9
 
 
 ## Built With
@@ -26,14 +26,4 @@ XCode 9
 
 * **Robert Jones** - *Initial work* - [jsrj](https://github.com/jsrj)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
