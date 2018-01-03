@@ -6,10 +6,12 @@ Just a quick exercise in animation chaining, layers, view transitions, and audio
 ## Getting Started
 
   As this is currently not on the App Store since it is more a Proof of Concept, in order to run it and see it in action,
-you will need to have XCode installed [(You can download it here.)](https://developer.apple.com/xcode/downloads/)
+  you will need to have XCode installed [(You can download it here.)](https://developer.apple.com/xcode/downloads/)
 
   Once installed, open the project by navigating to  "File > Open ...",
   Then make sure the build target is set to iPhone 8 by clicking the small window in the upper-right.
+  
+  After everything is all set up, simply press ⌘+R to build and run the app in a simulator.
 
 ### Prerequisites
 * Mac OSX Sierra or High Sierra
