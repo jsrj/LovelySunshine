@@ -23,6 +23,7 @@ Just a quick exercise in animation chaining, layers, view transitions, and audio
 * [Swift](https://swift.org/)                                - The language the app is coded in
 * [XCode](https://developer.apple.com/xcode/)                - Development Environment
 * [AVFoundation](https://developer.apple.com/av-foundation/) - Used to create multiple audio channels to sync with the animation.
+* [Affinity Designer](https://affinity.serif.com/en-us/)     - Creation and editing of assets.
 
 ## Authors
 
